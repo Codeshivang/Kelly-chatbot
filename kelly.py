@@ -53,6 +53,21 @@ if 'open youtube' in query:
 elif 'open google' in query:
             webbrowser.open("https://www.google.com")
 
+elif 'open wikipedia' in query:
+            webbrowser.open("https://www.wikipedia.org/")
+
+elif 'open github' in query:
+            webbrowser.open("https://github.com/")
+
+elif 'open chatgpt' in query:
+            webbrowser.open("https://chatgpt.com")
+
+elif 'open instagram' in query:
+            webbrowser.open("https://www.instagram.com")
+
+elif 'open telegram' in query:
+            webbrowser.open("https://web.telegram.org")
+
 elif 'play music' in query:
             webbrowser.open("https://www.spotify.com")
 
