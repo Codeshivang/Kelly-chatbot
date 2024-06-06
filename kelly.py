@@ -70,6 +70,9 @@ elif 'open telegram' in query:
 
 elif 'play music' in query:
             webbrowser.open("https://www.spotify.com")
+    
+elif 'open facebook' in query:
+            webbrowser.open("https://www.facebook.com/")
 
 elif 'open whatsapp' in query:
             webbrowser.open("https://web.whatsapp.com/")
